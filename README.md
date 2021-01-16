@@ -1,4 +1,4 @@
-![Node.js CI](https://github.com/msenyoo/check-is-empty-object/workflows/Node.js%20CI/badge.svg) [![Build Status](https://travis-ci.org/msenyoo/number-formatter.svg?branch=master)](https://travis-ci.org/msenyoo/number-formatter.svg?branch=master) [![Issue Status](https://img.shields.io/github/issues/msenyoo/check-is-empty-object)](https://github.com/msenyoo/check-is-empty-object/issues) [![Build Status](https://img.shields.io/github/license/msenyoo/check-is-empty-object)](https://github.com/msenyoo/check-is-empty-object/blob/main/LICENSE)
+![Node.js CI](https://github.com/msenyoo/check-is-empty-object/workflows/Node.js%20CI/badge.svg) [![Build Status](https://travis-ci.org/msenyoo/check-is-empty-object.svg?branch=master)](https://travis-ci.org/msenyoo/check-is-empty-object.svg?branch=master) [![Issue Status](https://img.shields.io/github/issues/msenyoo/check-is-empty-object)](https://github.com/msenyoo/check-is-empty-object/issues) [![Build Status](https://img.shields.io/github/license/msenyoo/check-is-empty-object)](https://github.com/msenyoo/check-is-empty-object/blob/main/LICENSE)
 
 # Check whether it is empty object
 
