@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/msenyoo/check-is-empty-object.git"
   },
-  "author": "",
+  "author": {
+    "name": "Senthilkumar Mathivanan",
+    "email": "msenyoo@gmail.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/msenyoo/check-is-empty-object/issues"
@@ -23,5 +26,10 @@
     "istanbul": "^0.4.5",
     "mocha": "^8.2.1",
     "nyc": "^15.1.0"
-  }
+  },
+  "keywords": [
+    "ES empty object",
+    "empty",
+    "javascript"
+  ]
 }
