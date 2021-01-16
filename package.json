@@ -1,6 +1,6 @@
 {
   "name": "check-is-empty-object",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Check whether it is empty Object",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "name": "Senthilkumar Mathivanan",
     "email": "msenyoo@gmail.com"
   },
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/msenyoo/check-is-empty-object/issues"
   },
